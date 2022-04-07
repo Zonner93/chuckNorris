@@ -14,7 +14,7 @@
 	<name>chuckNorris</name>
 	<description>chuck norris</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
